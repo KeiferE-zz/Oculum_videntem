@@ -1,0 +1,1 @@
+/home/jacob/Desktop/opencv-master/build/cpp/detect_color/CMakeFiles/main.dir
